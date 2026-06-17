@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "1",
+      "title": "Yêu cầu được phê duyệt",
+      "date": "2 phút trước",
+      "content": "Đơn xin nghỉ phép tạm thời của bạn đã được phòng đào tạo phê duyệt.",
+      "htmlContent": "<p>Chào bạn,</p><p>Đơn xin nghỉ phép tạm thời của bạn đã được phòng đào tạo phê duyệt.</p><p>Vui lòng kiểm tra lại lịch học trên ứng dụng.</p>",
+      "isRead": false,
+      "type": "request"
+    },
+    {
+      "id": "2",
+      "title": "Thông báo lịch thi",
+      "date": "1 giờ trước",
+      "content": "Lịch thi học kỳ 2 đã được cập nhật. Vui lòng kiểm tra phòng thi và thời gian.",
+      "htmlContent": "<p>Chào bạn,</p><p>Lịch thi học kỳ 2 đã được cập nhật. Vui lòng kiểm tra phòng thi và thời gian.</p>",
+      "isRead": false,
+      "type": "schedule"
+    },
+    {
+      "id": "3",
+      "title": "Kết quả học tập mới",
+      "date": "Hôm qua",
+      "content": "Giảng viên đã nhập điểm cho môn Lập trình Web.",
+      "htmlContent": "<p>Chào bạn,</p><p>Giảng viên đã nhập điểm cho môn Lập trình Web.</p>",
+      "isRead": true,
+      "type": "grade"
+    },
+    {
+      "id": "4",
+      "title": "Xác nhận học phí",
+      "date": "3 ngày trước",
+      "content": "Giao dịch thanh toán học phí đợt 1 của bạn đã được hệ thống xác nhận.",
+      "htmlContent": "<p>Chào bạn,</p><p>Giao dịch thanh toán học phí đợt 1 của bạn đã được hệ thống xác nhận.</p>",
+      "isRead": true,
+      "type": "fee"
+    }
+  ]
+}

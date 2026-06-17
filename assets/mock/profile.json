@@ -1,0 +1,21 @@
+{
+  "status": "success",
+  "data": {
+    "academic": {
+      "status": "Đang học",
+      "class": "10DHTH1",
+      "educationType": "Đại học chính quy",
+      "course": "2023 - 2027",
+      "major": "Công nghệ thông tin",
+      "specialization": "Kỹ thuật phần mềm"
+    },
+    "personal": {
+      "fullName": "Nguyễn Văn A",
+      "mssv": "2001190001",
+      "dob": "01/01/2005",
+      "gender": "Nam",
+      "pob": "TP. Hồ Chí Minh",
+      "phone": "0901234567"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "YC-01234",
+      "title": "Cấp lại thẻ sinh viên",
+      "date": "12/10/2023",
+      "status": "processing"
+    },
+    {
+      "id": "YC-01229",
+      "title": "Xác nhận thực tập",
+      "date": "05/10/2023",
+      "status": "completed"
+    },
+    {
+      "id": "YC-01215",
+      "title": "Đăng ký học lại",
+      "date": "01/10/2023",
+      "status": "rejected"
+    },
+    {
+      "id": "YC-01240",
+      "title": "Bảng điểm chính thức",
+      "date": "14/10/2023",
+      "status": "processing"
+    }
+  ],
+  "stats": {
+    "total": 15,
+    "processing": 3,
+    "completed": 10,
+    "rejected": 2
+  }
+}

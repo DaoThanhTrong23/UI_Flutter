@@ -1,0 +1,10 @@
+{
+  "status": "success",
+  "data": {
+    "token": "mock_jwt_token_123456789",
+    "user": {
+      "mssv": "2001190001",
+      "name": "Nguyễn Văn A"
+    }
+  }
+}

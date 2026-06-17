@@ -1,0 +1,26 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "1",
+      "name": "Nguyễn Trọng Khoa",
+      "faculty": "Công nghệ thông tin",
+      "email": "khoant@huit.edu.vn",
+      "phone": "0901111222"
+    },
+    {
+      "id": "2",
+      "name": "Trần Thị Bé",
+      "faculty": "Ngoại ngữ",
+      "email": "bett@huit.edu.vn",
+      "phone": "0903333444"
+    },
+    {
+      "id": "3",
+      "name": "Lê Văn Cường",
+      "faculty": "Công nghệ thông tin",
+      "email": "cuonglv@huit.edu.vn",
+      "phone": "0905555666"
+    }
+  ]
+}
